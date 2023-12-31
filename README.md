@@ -17,6 +17,18 @@ the help of clustering, annotation, and retraining methods. Our assessment of th
 framework using financial natural language understanding datasets (Finer-139) demonstrated
 performance superior to other established benchmarks.
 
+## Results
+<img width="663" alt="image" src="https://github.com/jaisai6/FinTag/assets/60820625/ec184cee-cdb8-497d-83ab-83e511f0594b">
+
+<img width="684" alt="image" src="https://github.com/jaisai6/FinTag/assets/60820625/60799a05-5e5b-4a49-89fb-8288e240879d">
+
+<img width="631" alt="image" src="https://github.com/jaisai6/FinTag/assets/60820625/f3af46fa-cd7f-4c5a-9e79-f1151da08c00">
+
+<img width="670" alt="image" src="https://github.com/jaisai6/FinTag/assets/60820625/ab53663d-3fbf-4f3b-94ed-ebfffdea2509">
+
+<img width="866" alt="image" src="https://github.com/jaisai6/FinTag/assets/60820625/06065992-1d8e-4753-b9d0-68ef503b325f">
+
+
 ## Conclusion
 The MNID framework, a
 novel approach for detecting and categorizing new intents in conversational agents, was
