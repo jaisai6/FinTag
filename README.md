@@ -18,20 +18,21 @@ framework using financial natural language understanding datasets (Finer-139) de
 performance superior to other established benchmarks.
 
 ## Results
-<img width="663" alt="image" src="https://github.com/jaisai6/FinTag/assets/60820625/ec184cee-cdb8-497d-83ab-83e511f0594b">
+<img width="581" alt="image" src="https://github.com/jaisai6/FinTag/assets/60820625/fea71b23-5da2-430b-8889-e09a1dbb471b">
 
-<img width="684" alt="image" src="https://github.com/jaisai6/FinTag/assets/60820625/60799a05-5e5b-4a49-89fb-8288e240879d">
+<img width="609" alt="image" src="https://github.com/jaisai6/FinTag/assets/60820625/7c23a137-3d10-4d22-b9ae-702c2bb7f2f3">
 
-<img width="631" alt="image" src="https://github.com/jaisai6/FinTag/assets/60820625/f3af46fa-cd7f-4c5a-9e79-f1151da08c00">
+<img width="609" alt="image" src="https://github.com/jaisai6/FinTag/assets/60820625/fccea277-6b9a-4777-96fa-9d5309a5a210">
 
-<img width="670" alt="image" src="https://github.com/jaisai6/FinTag/assets/60820625/ab53663d-3fbf-4f3b-94ed-ebfffdea2509">
+<img width="620" alt="image" src="https://github.com/jaisai6/FinTag/assets/60820625/7c8c2eaa-abf6-4b12-ac25-8754c2347ef8">
+
 
 <img width="866" alt="image" src="https://github.com/jaisai6/FinTag/assets/60820625/06065992-1d8e-4753-b9d0-68ef503b325f">
 
 
 ## Conclusion
 The MNID framework, a
-novel approach for detecting and categorizing new intents in conversational agents, was
+novel approach for detecting and categorizing new intents in conversational agents was
 employed in this study. By combining clustering, annotation, and retraining, the MNID
 framework adeptly manages new intents that were previously unencountered. When evaluated on
 a Natural Language Understanding (NLU) dataset, Finer-139, this framework exhibited superior
